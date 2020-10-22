@@ -10,18 +10,16 @@ May the bug be with you. 🦠🦠
 ![](https://img.shields.io/badge/Deploy_Server-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/kasettakorn">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasettakorn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&" alt="Martin's GitHub Stats" />
-</a>
-<a href="https://github.com/kasettakorn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kasettakorn&show_icons=true&theme=dracula" alt="Martin's GitHub Stats" />
-</a>
+<span>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasettakorn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&" alt="kasettakorn's GitHub Stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasettakorn&show_icons=true&theme=dracula" alt="kasettakorn's GitHub Stats" />
 
 ## Contact me
 ![](https://img.shields.io/badge/Ronnakorn_Hompoa-Facebook-informational?style=flat&logo=facebook&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/@kasettakorn-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/kornkung.h-Instagram-informational?style=flat&logo=instagram&logoColor=white&color=2bbc8a)
-
+</span>
 <!--
 **kasettakorn/kasettakorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
