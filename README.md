@@ -16,10 +16,10 @@ May the bug be with you. 🦠🦠
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kasettakorn&show_icons=true&theme=dracula" alt="kasettakorn's GitHub Stats" />
 
 ## Contact me
-![](https://img.shields.io/badge/Ronnakorn_Hompoa-Facebook-informational?style=flat&logo=facebook&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/@kasettakorn-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/kornkung.h-Instagram-informational?style=flat&logo=instagram&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Ronnakorn_Hompoa-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Ronnakorn_Hompoa-Facebook-informational?style=flat&logo=facebook&logoColor=white&color=4867aa)
+![](https://img.shields.io/badge/@kasettakorn-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=5da9dd)
+![](https://img.shields.io/badge/kornkung.h-Instagram-informational?style=flat&logo=instagram&logoColor=white&color=d6426f)
+![](https://img.shields.io/badge/Ronnakorn_Hompoa-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5)
 </span>
 <!--
 **kasettakorn/kasettakorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
