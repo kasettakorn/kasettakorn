@@ -19,6 +19,7 @@ May the bug be with you. 🦠🦠
 ![](https://img.shields.io/badge/Ronnakorn_Hompoa-Facebook-informational?style=flat&logo=facebook&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/@kasettakorn-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/kornkung.h-Instagram-informational?style=flat&logo=instagram&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Ronnakorn_Hompoa-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)
 </span>
 <!--
 **kasettakorn/kasettakorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
