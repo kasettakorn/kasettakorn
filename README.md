@@ -7,7 +7,6 @@ May the bug be with you. 🦠🦠
 ![](https://img.shields.io/badge/Mobile_App-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Deploy_Server-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 <span>
