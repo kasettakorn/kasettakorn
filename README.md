@@ -10,9 +10,9 @@ May the bug be with you. 🦠🦠
 
 ## &#x1f4c8; GitHub Stats
 <span>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasettakorn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&" alt="kasettakorn's GitHub Stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasettakorn&show_icons=true&theme=dracula" alt="kasettakorn's GitHub Stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasettakorn&show_icons=true" alt="kasettakorn's GitHub Stats" />
 
 ## Contact me
 ![](https://img.shields.io/badge/Ronnakorn_Hompoa-Facebook-informational?style=flat&logo=facebook&logoColor=white&color=4867aa)
