@@ -11,12 +11,12 @@ May the bug be with you. 🦠🦠
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
-<a href="https://github.com/kasettakorn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasettakorn&show_icons=true&theme=dark&langs_count=4&count_private=true&card_width=280" height="250px"/>
-</a>
-<a href="https://github.com/kasettakorn">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kasettakorn&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Kasettakorn's github stats" height="250px" />
-</a>
+<!-- <a href="https://github.com/kasettakorn"> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasettakorn&show_icons=true&theme=dark&langs_count=4&count_private=true&card_width=280" height="250px"/> -->
+<!-- </a> -->
+<!-- <a href="https://github.com/kasettakorn"> -->
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kasettakorn&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Kasettakorn's github stats" height="250px" /> -->
+<!-- </a> -->
 
 <span>
 
