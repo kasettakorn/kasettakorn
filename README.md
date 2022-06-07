@@ -5,12 +5,16 @@ May the bug be with you. 🦠🦠<br/>
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Machine_Learning-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web-ReactJS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web_Frontend-ReactJS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web_Backend-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Server_side_script-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JS_type_validation-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Mobile_App-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Databases-Oracle-informational?style=flat&logo=Oracle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
+<!-- ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> -->
 <!-- <a href="https://github.com/kasettakorn"> -->
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasettakorn&show_icons=true&theme=dark&langs_count=4&count_private=true&card_width=280" height="250px"/> -->
 <!-- </a> -->
