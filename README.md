@@ -1,5 +1,5 @@
 # Welcome to my GitHub 👋
-May the bug be with you. 🦠🦠<br/>
+<img src='./dialog.png' alt='logo' width='100%' />
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ## 🔧 Technologies & Tools
